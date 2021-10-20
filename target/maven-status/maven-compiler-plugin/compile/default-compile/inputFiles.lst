@@ -1,0 +1,10 @@
+/home/brunoenes/Documentos/cursos/TestesUnidade/banco-digital/src/main/java/com/financa/bancodigital/domain/dtos/BancoDTO.java
+/home/brunoenes/Documentos/cursos/TestesUnidade/banco-digital/src/main/java/com/financa/bancodigital/domain/mappers/BaseEntityMapper.java
+/home/brunoenes/Documentos/cursos/TestesUnidade/banco-digital/src/main/java/com/financa/bancodigital/service/BancoServiceImpl.java
+/home/brunoenes/Documentos/cursos/TestesUnidade/banco-digital/src/main/java/com/financa/bancodigital/controller/BancoController.java
+/home/brunoenes/Documentos/cursos/TestesUnidade/banco-digital/src/main/java/com/financa/bancodigital/domain/repository/BancoRepository.java
+/home/brunoenes/Documentos/cursos/TestesUnidade/banco-digital/src/main/java/com/financa/bancodigital/service/BancoService.java
+/home/brunoenes/Documentos/cursos/TestesUnidade/banco-digital/src/main/java/com/financa/bancodigital/domain/entities/Banco.java
+/home/brunoenes/Documentos/cursos/TestesUnidade/banco-digital/src/main/java/com/financa/bancodigital/domain/mappers/BancoMapper.java
+/home/brunoenes/Documentos/cursos/TestesUnidade/banco-digital/src/main/java/com/financa/bancodigital/exception/BancoException.java
+/home/brunoenes/Documentos/cursos/TestesUnidade/banco-digital/src/main/java/com/financa/bancodigital/BancoDigitalApplication.java
